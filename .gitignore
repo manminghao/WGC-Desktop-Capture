@@ -1,0 +1,4 @@
+/build/
+/.qtcreator/
+/.workbuddy/
+*.pro.user*
